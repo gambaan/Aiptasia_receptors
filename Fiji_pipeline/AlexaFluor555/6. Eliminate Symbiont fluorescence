@@ -1,0 +1,6 @@
+//Use the mask created in the previous step to delete symbiont fluorescnece from Alexafluor555 images
+
+setBackgroundColor(0, 0, 0);
+run("Clear", "stack");
+saveAs("Tiff");
+run("Close");
