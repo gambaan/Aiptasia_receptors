@@ -1,3 +1,4 @@
+//Save AlexaFluor647 Channel
 dir1 = getDirectory("Choose Source Directory "); 
 dir2 = getDirectory("Choose Destination Directory "); 
 list = getFileList(dir1);
