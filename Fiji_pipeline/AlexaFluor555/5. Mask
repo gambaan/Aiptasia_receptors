@@ -1,0 +1,7 @@
+// Create mask using the channel Alexa647. Change Threshold setting in order to mask symbiont as better as possible for each image. 
+run("Threshold...");
+setThreshold(50, 65535); 
+setOption("BlackBackground", false);
+run("Convert to Mask");
+run("Create Selection");
+roiManager("Add");
