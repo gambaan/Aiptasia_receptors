@@ -1,5 +1,5 @@
 //Run this macro on AlexaFluor555 images once the symbiont fluorescence is removed
-//(segmented gastrodermis or unsegmented total)
+//(segmented epidermis or unsegmented total)
 
 dir1 = getDirectory("Choose Source Directory "); 
 dir2 = getDirectory("Choose Destination Directory "); 
