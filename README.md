@@ -1,3 +1,3 @@
-Aiptasia Receptor Quantification 
+Aiptasia Receptor Quantification Workflow and FIJI Macro Set
 
-Pipeline and all FIJI macros needed for channels quantification, segmentation and cell numbers can be found in FIJI pipline.Macros are numbered seperately for each downstream analysis and should be run in order. 
+The complete pipeline, along with all necessary FIJI macros for quantifying channels, segmenting images, and determining cell numbers, is available in the FIJI pipeline. Macros are individually numbered for each subsequent analysis, and it is crucial to execute them in the specified order for accurate results.
