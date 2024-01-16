@@ -1,4 +1,4 @@
-//This macro needs to be run on cholorphyll channel
+//This macro needs to be run on A channel
 
 dir1 = getDirectory("Choose Source Directory "); 
 dir2 = getDirectory("Choose Destination Directory "); 
