@@ -1,4 +1,3 @@
-//Manually Remove epidermis
-//Saving epidermis
+//Manully select gastrodermis and save it
 saveAs("Tiff");
 run("Close");
